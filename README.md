@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Abhishek Bhardwaj<img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
 
 <p align="center">
-<a align="center" href="https://github.com/0505Abhishek/0505Abhishek"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+FullStack+Developer." /></a>
+<a align="center" href="https://github.com/0505Abhishek/0505Abhishek"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+FullStack+Developer. " /></a>
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 -  Amusement-Park Management System **[Repo](https://github.com/khushboo787/actual-shoes-7533)**
 
--  Belk.com Clone **[Repo](https://github.com/Riteshsalve/silky-toothbrush-7443)**
+-  Belk.com Clone **[Repo](https://github.com/dhyan0112/animated-governor-4742)**
 -  Quick Store **[Repo](https://6548cfa162392e15659aba40--lovely-vacherin-163d50.netlify.app/)**
 
 <br/>
