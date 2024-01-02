@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">Hello, my name is Abhishek Bhardwaj, I am a java backend developer from New Delhi. I am proficient in Java and React and I have a strong command of frameworks like Spring and Hibernate. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my studies, I had the opportunity to work on various projects that helped me develop hands-on experience in Java programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
+<p align="center">Hello, my name is Abhishek Bhardwaj, I am a Full Stack developer from New Delhi. I am proficient in Java and React and I have a strong command of frameworks like Spring and Hibernate. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my studies, I had the opportunity to work on various projects that helped me develop hands-on experience in Java programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
