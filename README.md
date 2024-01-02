@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </td>
 <td width="25%" align="center">
 <span>Java</span><br><br>
-<img height="64px" src="https://0505Abhishek.github.io/docs/assets/img/java-logo-1.png">
+<img height="64px" src="https://shivam6209.github.io/docs/assets/img/java-logo-1.png">
 </td>
 </tr>
 <tr valign="top" >
@@ -81,15 +81,15 @@ Here are some ideas to get you started:
 </td>
 <td width="25%" align="center">
 <span>Hibernate</span><br><br>
-<img height="70px" src="https://0505Abhishek.github.io/docs/assets/img/hibernate.png">
+<img height="70px" src="https://shivam6209.github.io/docs/assets/img/hibernate.png">
 </td>
 <td width="25%" align="center">
 <span>Spring</span><br><br>
-<img height="70px" src="https://0505Abhishek.github.io/docs/assets/img/1614302.png">
+<img height="70px" src="https://shivam6209.github.io/docs/assets/img/1614302.png">
 </td>
 <td width="25%" align="center">
 <span>Spring Boot</span><br><br>
-<img height="64px" src="https://0505Abhishek.github.io/docs/assets/img/1614368.png">
+<img height="64px" src="https://shivam6209.github.io/docs/assets/img/1614368.png">
 </td>
 </tr>
 <tr valign="top">
