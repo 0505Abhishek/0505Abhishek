@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">Hello, my name is Abhishek Bhardwaj, I am a Full Stack developer from New Delhi. I am proficient in Java and React and I have a strong command of frameworks like Spring and Hibernate. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my studies, I had the opportunity to work on various projects that helped me develop hands-on experience in Java programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
+<p align="center">Hello, my name is Abhishek Bhardwaj, I am a Full Stack developer from New Delhi. I am proficient in Node.js and React and I have a strong command of framework like Express js. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my internship and job, I had the opportunity to work on various projects that helped me develop hands-on experience in Node js programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
@@ -33,18 +33,16 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Java, Hibernate, Spring, Rest-API & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express js, Mongo db, Rest-API & DSA**
 
 - 📫 How to reach me **Abhisharma0505@gmail.com**
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://0505Abhishek.github.io/)
     
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
-
+- Kyc Panel (Mars) 
+- Distributor Onboarding (Adani Wilmar)
 -  Amusement-Park Management System **[Repo](https://github.com/khushboo787/actual-shoes-7533)**
-
--  Belk.com Clone **[Repo](https://github.com/dhyan0112/animated-governor-4742)**
--  Quick Store **[Repo](https://6548cfa162392e15659aba40--lovely-vacherin-163d50.netlify.app/)**
 
 <br/>
 
@@ -70,8 +68,8 @@ Here are some ideas to get you started:
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 </td>
 <td width="25%" align="center">
-<span>Java</span><br><br>
-<img height="64px" src="https://shivam6209.github.io/docs/assets/img/java-logo-1.png">
+<span>Node js</span><br><br>
+<img height="64px" src="https://logowik.com/content/uploads/images/nodejs.jpg">
 </td>
 </tr>
 <tr valign="top" >
@@ -80,26 +78,22 @@ Here are some ideas to get you started:
 <img height="70px" src="./images/sql.png">
 </td>
 <td width="25%" align="center">
-<span>Hibernate</span><br><br>
-<img height="70px" src="https://shivam6209.github.io/docs/assets/img/hibernate.png">
+<span>Mongo DB</span><br><br>
+<img height="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfA0GGJ32gRo1E-p8xh_ubvv048OXLdvW1x_rkyMB7XHB-jMjUiQjOpNeBK0KxfBM-g&usqp=CAU">
 </td>
 <td width="25%" align="center">
-<span>Spring</span><br><br>
-<img height="70px" src="https://shivam6209.github.io/docs/assets/img/1614302.png">
+<span>Express js</span><br><br>
+<img height="64px" src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png">
 </td>
 <td width="25%" align="center">
-<span>Spring Boot</span><br><br>
-<img height="64px" src="https://shivam6209.github.io/docs/assets/img/1614368.png">
+<span>React</span><br><br>
+<img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyp7FFYRwNKbTumOgu4zGIJOQpv8y0ngkLHw&s">
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-</td>
-<td width="25%" align="center">
-<span>JDBC</span><br><br>
-<img height="64px" src="./images/download-removebg-preview (7).png">
 </td>
 <td width="25%" align="center">
 <span>𝗚𝗶𝘁</span><br><br>
