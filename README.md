@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 </td>
 <td width="25%" align="center">
 <span>React</span><br><br>
-<img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyp7FFYRwNKbTumOgu4zGIJOQpv8y0ngkLHw&s">
+<img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </td>
 </tr>
 <tr valign="top">
