@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">Hello, my name is Abhishek Bhardwaj, I am a Full Stack developer from New Delhi. I am proficient in Node.js and React and I have a strong command of framework like Express js. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my internship and job, I had the opportunity to work on various projects that helped me develop hands-on experience in Node js programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
+<p align="center">Hello, my name is Abhishek Bhardwaj, I am a Full Stack developer from New Delhi. I am proficient in Node.js and React, with a strong command of frameworks like Express.js. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my internship and job, I have worked on various projects that provided hands-on experience in Node.js development. Thank you for considering my profile, and I look forward to hearing from you.</p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://0505Abhishek.github.io/)
     
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+- ⚡ Fun fact ** The world might end someday, but your code commits will live forever!**
 - Kyc Panel (Mars) 
 - Distributor Onboarding (Adani Wilmar)
 -  Amusement-Park Management System **[Repo](https://github.com/khushboo787/actual-shoes-7533)**
@@ -89,11 +89,6 @@ Here are some ideas to get you started:
 <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </td>
 </tr>
-<tr valign="top">
-<td width="25%" align="center">
-<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-</td>
 <td width="25%" align="center">
 <span>𝗚𝗶𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -120,10 +115,6 @@ Here are some ideas to get you started:
 
 <br/>  
 <br/>
-
-<!-- <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=abajaj655&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p> -->
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
