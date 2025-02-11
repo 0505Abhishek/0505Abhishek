@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## 📝 GitHub Profile Summary:
-![GitHub Profile Summary](https://github.com/0505Abhishek/0505Abhishek/raw/main/assets/profile-summary-screenshot.png)
+![GitHub Profile Summary](https://profile-summary-for-github.com/user/0505Abhishek)
 
 
 <div align="center">
