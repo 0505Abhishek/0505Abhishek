@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [## 📝 GitHub Profile Summary:
 
-![GitHub Profile Summary](https://profile-summary-for-github.com/user/0505Abhishek)](https://profile-summary-for-github.com/user/0505Abhishek)
+![GitHub Profile Summary](https://profile-summary-for-github.com/user/0505Abhishek)
 
 <div align="center">
   <h3 align="left" border="0"> 🚀 My Tech Stack </h3>
