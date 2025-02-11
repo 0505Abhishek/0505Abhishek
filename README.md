@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 
 <div><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0505Abhishek9&row=2&column=7&margin-w=15&margin-h=15" alt="0505Abhishek"/></a> </div>
 
+[## 📝 GitHub Profile Summary:
+
+![GitHub Profile Summary](https://profile-summary-for-github.com/user/0505Abhishek)](https://profile-summary-for-github.com/user/0505Abhishek)
+
 <div align="center">
   <h3 align="left" border="0"> 🚀 My Tech Stack </h3>
 <br>
@@ -115,9 +119,6 @@ Here are some ideas to get you started:
 
 <br/>  
 <br/>
-[## 📝 GitHub Profile Summary:
-
-![GitHub Profile Summary](https://profile-summary-for-github.com/user/0505Abhishek)](https://profile-summary-for-github.com/user/0505Abhishek)
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
