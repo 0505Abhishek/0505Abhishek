@@ -47,8 +47,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> 📝 GitHub Profile Summary: </h3>
-  <img height="400px" src="https://profile-summary-for-github.com/user/0505Abhishek" />
+  <a href="https://profile-summary-for-github.com/user/0505Abhishek">
+    <strong>Click here to view my GitHub Profile Summary</strong>
+  </a>
 </div>
+
 
 
 <div align="center">
