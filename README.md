@@ -109,17 +109,8 @@ Here are some ideas to get you started:
 <h3 align="center">GitHub Analytics:</h3>
 
 <div align="center">
-![Abhishek's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=0505Abhishek&cc=000000&tc=37BCF6&ic=fff)
+ ![Abhishek's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=0505Abhishek&cc=000000&tc=37BCF6&ic=fff)
 </div>
-
-<div align="center">
-  ![Repo stars](https://img.shields.io/github/stars/0505Abhishek/<repo-name>?style=for-the-badge)
-
-  ![Last commit](https://img.shields.io/github/last-commit/0505Abhishek/<repo-name>?style=for-the-badge)
-</div>
-
-
-
 
 <br/>  
 <br/>
