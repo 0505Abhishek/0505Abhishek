@@ -106,18 +106,20 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
-<h3 align="center">GitHub Analytics: </h3>
+<h3 align="center">GitHub Analytics:</h3>
+
 <div align="center">
-![Abhishek's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=0505Abhishek&cc=000000&tc=37BCF6&ic=fff)
-</div>
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=0505Abhishek&layout=compact&langs_count=8&cc=000000&tc=37BCF6&ic=ffffff" alt="Abhishek Top Languages" />
+  <img src="https://github-readme-stats-git-master-kabasakalis.vercel.app/api?username=0505Abhishek&show_icons=true&theme=algolia" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0505Abhishek" alt="Abhishek GitHub stats" />
-
+  <img src="https://github-readme-stats-git-master-kabasakalis.vercel.app/api/top-langs/?username=0505Abhishek&layout=compact&langs_count=8&theme=algolia" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=0505Abhishek&theme=algolia" />
+</div>
+
 
 
 <br/>  
