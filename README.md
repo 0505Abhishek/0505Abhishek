@@ -109,16 +109,16 @@ Here are some ideas to get you started:
 <h3 align="center">GitHub Analytics:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-kabasakalis.vercel.app/api?username=0505Abhishek&show_icons=true&theme=algolia" />
+  <!-- Followers -->
+  ![Followers](https://img.shields.io/github/followers/0505Abhishek?label=Followers&style=for-the-badge)
+
+  <!-- Total Stars across a repo (example for one repo) -->
+  ![Repo stars](https://img.shields.io/github/stars/0505Abhishek/<repo-name>?style=for-the-badge)
+
+  <!-- Last commit for a repo -->
+  ![Last commit](https://img.shields.io/github/last-commit/0505Abhishek/<repo-name>?style=for-the-badge)
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-kabasakalis.vercel.app/api/top-langs/?username=0505Abhishek&layout=compact&langs_count=8&theme=algolia" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=0505Abhishek&theme=algolia" />
-</div>
 
 
 
