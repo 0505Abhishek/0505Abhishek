@@ -108,8 +108,11 @@ Here are some ideas to get you started:
 </table>
 <h3 align="center">GitHub Analytics: </h3>
 <div align="center">
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=0505Abhishek)](https://github.com/0505Abhishek)
+
+![Abhishek's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=0505Abhishek&cc=000000&tc=37BCF6&ic=fff)
+
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0505Abhishek&langs_count=8&theme=algolia" alt="Abhishek GitHub stats" />
 </div>
